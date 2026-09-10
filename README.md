@@ -2,3 +2,5 @@
 This is my first python calculator.
 <br>
 Author - Muhammad Khan(AI Engineer)
+<br>
+Author2 - Khan
